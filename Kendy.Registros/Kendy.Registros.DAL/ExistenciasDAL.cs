@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Kendy.Registros.DAL
 {
-    class ProductoDAL
+    public class ExistenciasDAL
     {
+
     }
 }
