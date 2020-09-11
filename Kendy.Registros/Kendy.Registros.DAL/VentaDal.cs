@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Kendy.Registros.EN;
 using System.Data;
-using ColegioSalarrue.RegistroAcademico.DAL;
 using System.Data.SqlClient;
 
 namespace Kendy.Registros.DAL

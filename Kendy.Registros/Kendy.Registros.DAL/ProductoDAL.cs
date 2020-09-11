@@ -165,7 +165,7 @@ namespace Kendy.Registros.DAL
                     {
                         Producto _Producto = new Producto();
 
-                        
+
                         _Producto.Nombre = _reader.GetString(1); //Empieza de 0
                         _Producto.Marca = _reader.GetString(2);
                         _Producto.FamiliaProducto = _reader.GetString(3);
@@ -203,7 +203,7 @@ namespace Kendy.Registros.DAL
 
         }
 
-       
+
         //Obtener
 
         public static List<Producto> ObtenerProducto()
