@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kendy.Registros.DAL
 {
-    publi class DetalleDePedidoDAL
+    public class DetalleDePedidoDAL
     {
     }
 }
