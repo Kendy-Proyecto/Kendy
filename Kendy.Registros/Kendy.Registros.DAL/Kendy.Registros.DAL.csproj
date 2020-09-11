@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClienteDAL.cs" />
     <Compile Include="DBComun.cs" />
     <Compile Include="ExistenciasDAL.cs" />
     <Compile Include="GradoDAL.cs" />
