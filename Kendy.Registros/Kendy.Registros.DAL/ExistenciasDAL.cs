@@ -8,6 +8,7 @@ namespace Kendy.Registros.DAL
 {
     public class ExistenciasDAL
     {
+    class X(){
 
     }
 }
