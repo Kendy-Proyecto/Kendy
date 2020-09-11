@@ -9,6 +9,8 @@ namespace Kendy.Registros.EN
 {
     public class Proveedor
     {
+        public string telefono;
+
         public int Id { get; set; }
 
         public string Nombre { get; set; }
@@ -26,6 +28,7 @@ namespace Kendy.Registros.EN
         public string NIT { get; set; }
 
         public int NumeroDeRegistro { get; set; }
+        public string Nit { get; set; }
 
         public Proveedor () { }
 

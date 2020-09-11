@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ColegioSalarrue.RegistroAcademico.DAL
+namespace Kendy.Registros.DAL
 {
     public class DBComun
     {

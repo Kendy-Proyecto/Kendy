@@ -9,7 +9,7 @@ using ColegioSalarrue.RegistroAcademico.DAL;
 using ColegioSalarrue.RegistroAcademico.EN;
 
 namespace ColegioSalarrue.RegistroAcademico.DAL
-{
+{ 
     public class GradoDAL
     {
         public static int AgregarGrado(Grado pGrado)

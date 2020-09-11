@@ -44,6 +44,8 @@
     <Compile Include="DBComun.cs" />
     <Compile Include="GradoDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProveedorDAL.cs" />
+    <Compile Include="VentaDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Kendy.Registros.EN\Kendy.Registros.EN.csproj">
