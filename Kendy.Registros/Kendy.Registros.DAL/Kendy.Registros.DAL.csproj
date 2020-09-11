@@ -45,5 +45,11 @@
     <Compile Include="GradoDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Kendy.Registros.EN\Kendy.Registros.EN.csproj">
+      <Project>{e304fb66-128e-4b30-a418-2c37305891b4}</Project>
+      <Name>Kendy.Registros.EN</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
