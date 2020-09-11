@@ -1,0 +1,2 @@
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.DAL\obj\Debug\Kendy.Registros.DAL.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.DAL\obj\Debug\Kendy.Registros.DAL.csproj.CoreCompileInputs.cache

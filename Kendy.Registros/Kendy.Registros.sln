@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kendy.Registros.EN", "Kendy.Registros.EN\Kendy.Registros.EN.csproj", "{E304FB66-128E-4B30-A418-2C37305891B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kendy.Registros.DAL", "Kendy.Registros.DAL\Kendy.Registros.DAL.csproj", "{3A170C90-2E9A-47AB-89CB-9674258ACBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E304FB66-128E-4B30-A418-2C37305891B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E304FB66-128E-4B30-A418-2C37305891B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E304FB66-128E-4B30-A418-2C37305891B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E304FB66-128E-4B30-A418-2C37305891B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A170C90-2E9A-47AB-89CB-9674258ACBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A170C90-2E9A-47AB-89CB-9674258ACBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A170C90-2E9A-47AB-89CB-9674258ACBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A170C90-2E9A-47AB-89CB-9674258ACBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2986A0D9-6261-4B12-A3E4-8A2A0A461F50}
+	EndGlobalSection
+EndGlobal

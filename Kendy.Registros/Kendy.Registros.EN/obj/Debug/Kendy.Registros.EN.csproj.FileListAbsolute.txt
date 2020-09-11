@@ -1,0 +1,6 @@
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.EN\bin\Debug\Kendy.Registros.EN.dll
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.EN\bin\Debug\Kendy.Registros.EN.pdb
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.EN\obj\Debug\Kendy.Registros.EN.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.EN\obj\Debug\Kendy.Registros.EN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.EN\obj\Debug\Kendy.Registros.EN.dll
+C:\Users\Usuario\Source\Repos\Kendyss\Kendy.Registros\Kendy.Registros.EN\obj\Debug\Kendy.Registros.EN.pdb
