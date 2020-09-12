@@ -226,9 +226,9 @@ public static List<Proveedor> BuscarProveedorPorNombre(string pNombre)
                 _proveedor.Nombre = _reader.GetString(1);
                 _proveedor.Empresa = _reader.GetString(2);
                 _proveedor.Direccion = _reader.GetString(3);
-                _proveedor.telefono = _reader.GetString(4);
+                _proveedor.Telefono = _reader.GetString(4);
                 _proveedor.CorreoElectronico = _reader.GetString(5);
-                _proveedor.Nit = _reader.GetString(6);
+                _proveedor.NIT = _reader.GetString(6);
                 _proveedor.NumeroDeRegistro = _reader.GetInt32(7);
 
                 _listaProveedor.Add(_proveedor);
@@ -284,9 +284,9 @@ public static List<Proveedor> ObtenerProveedor()
                 _proveedor.Nombre = _reader.GetString(1);
                 _proveedor.Empresa = _reader.GetString(2);
                 _proveedor.Direccion = _reader.GetString(3);
-                _proveedor.telefono = _reader.GetString(4);
+                _proveedor.Telefono = _reader.GetString(4);
                 _proveedor.CorreoElectronico = _reader.GetString(5);
-                _proveedor.Nit = _reader.GetString(6);
+                _proveedor.NIT = _reader.GetString(6);
                 _proveedor.NumeroDeRegistro = _reader.GetInt32(7);
 
                 _listaProveedor.Add(_proveedor);
